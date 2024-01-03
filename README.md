@@ -7,7 +7,7 @@ Operating System: 32 Bit default "Raspberry PI OS" minimal with no desktop
 
 ### Folder structure
 
-    main applications /home/~name~/app/wgt-node
+    main applications /home/~name~/app/wgtnode
     data location /home/~name~/app/data
 
 ## Setup Activity:
@@ -20,12 +20,12 @@ Operating System: 32 Bit default "Raspberry PI OS" minimal with no desktop
 
 ## Setup git folder
     - from /home/~name~/app
-    - git clone "http://github.com/kodemeex/wgt-node"
+    - git clone "http://github.com/erikashby/wgtnode"
 
 ### Test git folder
 
     - from /home/~name~/app/wgt-node
-    - git pull "https://github.com/kodemeex/wgt-node"
+    - git pull "https://github.com/erikashby/wgtnode"
 
 ## Install PIP
     - in the terminal, type
