@@ -2,6 +2,6 @@
     "name":"zero2",
     "version":"0.1",
     "type":"node",
-    "serverIP":"http://192.168.1.166",
+    "serverIP":"http://10.0.0.32",
     "serverPort":"5005"
 }
