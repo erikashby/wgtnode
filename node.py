@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 ### Load in config file
 get_config = open("config.json")
-config_file = json.load(get_config)
+config = json.load(get_config)
 get_config.close()
 
 
